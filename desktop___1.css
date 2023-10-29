@@ -1,0 +1,115 @@
+/*
+	@name desktop___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desktop___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__desktop___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_1 {
+	top: 222px;
+	left: 263px;
+	width: 1177px;
+	height: 802px;
+	background:rgba(60.68,63.93,81.81,1);
+}
+
+
+#rectangle_3 {
+	top: 0px;
+	left: 263px;
+	width: 1177px;
+	height: 222px;
+	background:rgba(29,42,53,1);
+}
+
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 263px;
+	height: 1024px;
+	background:rgba(29,42,53,1);
+}
+
+
+#b_r_u_g {
+	top: 190px;
+	left: 76px;
+	width: 222.8px;
+	height: 888.8px;
+	overflow: hidden;
+	font-family: Slackey;
+	font-size: 148px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#arrow_1 {
+	top: -46px;
+	left: 0.001px;
+	width: 262.97px;
+	height: 272.14px;
+}
+
+
+#brug_bot_net {
+	top: 36px;
+	left: 341px;
+	width: 1049.6px;
+	height: 165.6px;
+	overflow: hidden;
+	font-family: Slackey;
+	font-size: 96px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#reports {
+	top: 282px;
+	left: 341px;
+	width: 580.4px;
+	height: 149.4px;
+	overflow: hidden;
+	font-family: Saira SemiCondensed;
+	font-size: 54px;
+	text-align: left;
+	color:#F49661;
+}
+
+
+#arrow_2 {
+	top: 289px;
+	left: 265px;
+	width: 22.09px;
+	height: 71.5px;
+}
+
+
+
+
